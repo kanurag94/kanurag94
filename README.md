@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there I am Anurag Aggarwal👋
 
-<!--
-**kanurag94/kanurag94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on enterprise service mesh product at Tetrate.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ❤️ I love exploring open source infrastructure tools arround kubernetes and golang.
+
+- 🤔 I’m currrently contributing to istio, envoy, c-ares and XaoS.
+
+- 💬 Ask me about go, k8s, networking, AWS.
+
+- 📫 Reach me at:
+   
+   [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanurag94/) [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanurag94@gmail.com) <img alt="ViewCount" src="https://komarev.com/ghpvc/?username=kanurag94&&style=for-the-badge" />
