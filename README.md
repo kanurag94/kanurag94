@@ -1,7 +1,7 @@
 ### Hi there I am Anurag Aggarwal👋
 
 
-- 🔭 I’m currently working on enterprise service mesh product at Tetrate.
+- 🔭 I’m currently working on enterprise service mesh product based on Envoy at Tetrate.
 
 - ❤️ I love exploring open source infrastructure tools arround kubernetes and golang.
 
